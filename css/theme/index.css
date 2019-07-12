@@ -47,7 +47,7 @@
   left:-8.33%;
   text-align: left;
   float: left;
-  width:45%;
+  width:40%;
   z-index:-10;
 }
 
@@ -57,7 +57,7 @@
   float: right;
   text-align: right;
   z-index:-10;
-  width:45%;
+  width:40%;
 }
 
 .reveal img.noborder { background:none; border:none; box-shadow:none; }
